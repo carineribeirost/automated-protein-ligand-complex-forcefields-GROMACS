@@ -55,3 +55,4 @@ Changes in parameters are necessary as the objective of the molecular dynamics c
 ## Authorship
 
 * Author: **Carine Ribeiro** ([carineribeirost](https://github.com/carineribeirost))
+* Co-author: **Raiane Pimentel** ([Linkedin](https://https://www.linkedin.com/in/raiane-pimentel-b2485853/))
