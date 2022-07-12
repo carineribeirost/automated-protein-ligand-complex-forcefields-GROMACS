@@ -6,6 +6,11 @@ More information on how to execute this tutorial is found in [Protein-Ligand Tut
 
 * Make sure you have GROMACS installed
 * Download the code and unzip it on the desirable directory
+* Install networkx running the following in the terminal
+```
+pip install networkx==2.3
+``` 
+* Download the python script ["cgenff_charmm2gmx_py3_nx2.py"](https://www.charmm.org/archive/charmm/resources/charmm-force-fields/download.php?filename=CHARMM_ff_params_files/cgenff_charmm2gmx_py3_nx2.py) and add to the files folder"
 
 To run the script: open the linux terminal, go to your working directory and use the command
 
