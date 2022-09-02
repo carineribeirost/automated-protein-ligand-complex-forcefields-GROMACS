@@ -55,4 +55,4 @@ Changes in parameters are necessary as the objective of the molecular dynamics c
 ## Authorship
 
 * Author:([Carine Ribeiro](https://github.com/carineribeirost))
-* Co-author:([Raiane Pimentel](https://https://www.linkedin.com/in/raiane-pimentel-b2485853/))
+* Inspired by:([Brenda Ferrari](https://github.com/brendaferrari/automated-lysozyme-water-forcefields-GROMACS))
